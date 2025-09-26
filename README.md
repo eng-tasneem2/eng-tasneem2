@@ -47,4 +47,4 @@
 
 <p align="left">
    You can view all my verified certificates in this dedicated repository:  
-   👉 <a href="https://github.com/hossam-ibrahim27/My_Certificate##academic-certificate" target="_blank"><b>My Certificates Repository</b></a>
+ 
