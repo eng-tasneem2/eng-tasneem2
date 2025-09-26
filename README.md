@@ -40,11 +40,3 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="35" alt="jest logo" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" alt="git logo" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
-
-   ---
-
-<h2 align="left">📜 Certificates</h2>
-
-<p align="left">
-   You can view all my verified certificates in this dedicated repository:  
- 
